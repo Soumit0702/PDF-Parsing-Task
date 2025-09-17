@@ -20,9 +20,8 @@ The JSON preserves **page hierarchy**, **sections/subsections**, and identifies 
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/pdf-parser.git
-cd pdf-parser
-pip install -r requirements.txt
+git clone https://github.com/Soumit0702/Pdf-Parsing-Task.git
+pip install -r requirements_task.txt
 
 ```
 ## To Run The Script
