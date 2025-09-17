@@ -23,3 +23,11 @@ Clone this repository and install dependencies:
 git clone https://github.com/your-username/pdf-parser.git
 cd pdf-parser
 pip install -r requirements.txt
+
+---
+
+## Running The Script
+
+'''bash
+python pdf_parser.py
+
