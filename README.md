@@ -25,7 +25,7 @@ cd pdf-parser
 pip install -r requirements.txt
 
 ```
-## Installation
+## To Run The Script
 
 To run the parser, simply execute:
 
