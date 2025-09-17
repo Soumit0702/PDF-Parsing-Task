@@ -24,9 +24,8 @@ git clone https://github.com/your-username/pdf-parser.git
 cd pdf-parser
 pip install -r requirements.txt
 
----
-
-## Running The Script
+```
+## Installation
 
 To run the parser, simply execute:
 
