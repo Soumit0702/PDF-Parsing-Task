@@ -28,6 +28,8 @@ pip install -r requirements.txt
 
 ## Running The Script
 
-'''bash
+To run the parser, simply execute:
+
+```bash
 python pdf_parser.py
 
